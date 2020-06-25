@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"Nabeel Khalid",
+    "occupation":"Network Engineering Intern",
+    "description":"I study Computer Science and Applied Mathematics at the University at Buffalo SUNY",
+    "image":"profilepic.jpg",
+    "bio":"Just your average gymrat turned programmer",
+    "contactmessage":"Get in touch!",
+    "email": "NabeelKhalid151998@gmail.com",
+    "phone": "929-224-6030",
+    "address":{
+      "street":"",
+      "city":"Buffalo"
+      
+    },
+    "website": "",
+    "resumedownload":"./src/Components/Resume may 2020+1.pdf",
+    "social":[
+     
+      
+    
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nabeel-khalid-49674a141/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"http://github.com/yeezystacks",
+        "className":"fa fa-github"
+      }
+     
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my skills!",
+    "education":[
+      {
+        "school":"University at Buffalo SUNY",
+        "degree":"Computer Science and Applied Math",
+        "graduated":"May 2021",
+        "description":""
+      },
+      {
+        "school":"Brooklyn Technical High School",
+        "degree":"Electro-Mechanical Engineering",
+        "graduated":"June 2016",
+        "description":" "
+      }
+    ],
+    "work":[
+      {
+        "company":"University at Buffalo Network Engineering",
+        "title":"Network Engineering Intern",
+        "years":"April - Present",
+        "description":"Led a team of 5 interns to develop software for the purpose of maintaining and upgrading the Universitys Technological Infrastructure"
+      },
+      {
+        "company":"SHSI Queens",
+        "title":"Head TA, Student Director",
+        "years":"September 2015 - August 2017",
+        "description":"Created and taught Programming and CAD courses to middle schoolers from underprivileged backgrounds in Java, Python."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"c++",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"AutoDesk Inventor",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+      
+    ]
+  },
+
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Nabeel increased productivity by approxametly 300% through the licensing and development of new software!",
+        "user":"Thomas Jauch"
+      },
+      {
+        "text":"I have worked under Nabeel for 2 years now and he is amazing in a team driven environment",
+        "user":"Taha Alam"
+      }
+    ]
+  }
+}
